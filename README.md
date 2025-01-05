@@ -15,7 +15,7 @@
 
 
 <h3 align="center">
-👨‍💻 Data Scientist | 🔬 ML Researcher | 🚀 Technical Success Manager  
+📊 Data Scientist | 👨‍💻 ML Researcher | 🚀 Technical Success Manager  
 </h3>
 <p align="center">
 Transforming Complex Business Challenges into Creative, Scalable ML & Data Solutions for Long-Term Impact
